@@ -55,3 +55,8 @@ body {
     text-align: left;
     line-height: 1.7;
 }
+
+#tribute-info h3 {
+    padding:10px;
+}
+
